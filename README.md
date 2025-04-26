@@ -76,18 +76,3 @@ We used a combination of manual review coding, logistic regression analysis, and
 **Academic Use Only.**  
 Data collected from publicly available Steam reviews under fair use policy.
 
----
-
-# ✅ Before Upload Checklist
-
-- [x] Scripts are clean and properly named.
-- [x] Data files are correctly placed under `/data/`.
-- [x] Model outputs and figures saved in `/results/` and `/figures/`.
-- [x] Group members' names filled in above.
-
----
-
-# 🚀
-
-> Thank you for visiting our project! 🚀  
-> We hope our analysis helps better understand player sentiment and sequel engagement in gaming.
